@@ -7,7 +7,7 @@ const About = () => {
     {
       name: "Dr. marco",
       role: "Founder & CEO",
-      image: "dr.marco.jpg",
+      image: "/images/dr.marco.jpg",
       bio: "Educational technology pioneer with 15+ years in online learning."
     },
     {
