@@ -13,19 +13,19 @@ const About = () => {
     {
       name: "hapipa",
       role: "sales",
-      image: "hapipa.jpg",
+      image: "/images/hapipa.jpg",
       bio: "Communicate with students registered in the course and the marketing manager for the platform"
     },
     {
       name: "Kerolos",
       role: "Lead Designer",
-      image: "Kerolos.jpg",
+      image: "/images/Kerolos.jpg",
       bio: "Award-winning designer with expertise in educational user experience."
     },
     {
       name: "Mohammed Bayoummi",
       role: "Technology Director",
-      image: "mohammed.jpg",
+      image: "/images/mohammed.jpg",
       bio: "Full-stack developer passionate about accessible education technology."
     }
   ];
